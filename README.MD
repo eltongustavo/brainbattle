@@ -12,6 +12,10 @@ Esse projeto teve como objetivo estimular a interação dos alunos na aula por m
 ## Abaixo Imagens do projeto sendo usado em diversas escolas da região
 
 <div align="center">
+  <img src="./imagens/capa.jpeg" alt="Brain Battle" width="400"/>
+</div>
+
+<div align="center">
   <img src="./imagens/escola1.jpeg" alt="Brain Battle" width="400"/>
 </div>
 
